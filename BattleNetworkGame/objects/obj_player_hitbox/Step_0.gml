@@ -1,10 +1,10 @@
 if place_meeting(x, y, obj_proj_hitbox) {
 	var _inst = instance_place(x, y, obj_proj_hitbox)
 	if p1 && !_inst.p1 && !hit {
-		damaged_by_bullet(_inst)
+		damaged_by_player(_inst)
 	}
 	else if !p1 && _inst.p1 &&!hit {
-		damaged_by_bullet(_inst)
+		damaged_by_player(_inst)
 	}
 }
 

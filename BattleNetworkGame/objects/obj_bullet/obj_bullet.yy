@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_proj_box_bullet",
+  "%Name":"obj_bullet",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_proj_box_bullet",
+  "name":"obj_bullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Box Char",

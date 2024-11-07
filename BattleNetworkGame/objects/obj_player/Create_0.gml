@@ -1,5 +1,6 @@
 charge_timer = 0
 hitbox = 0
+mana = 0
 
 char_spd = 0.5		//spd at which a character moves to another box
 box_x = 0		//x index for current box player is on
